@@ -7,7 +7,7 @@ eg. The following actioncolumn item will fire a 'editpersonclick' event:
         xtype:'actioncolumn',
         width:50,
         items: [{
-            icon: 'extjs-build/examples/shared/icons/fam/cog_edit.png',  // Use a URL in the icon config
+            icon: 'extjs-build/examples/shared/icons/fam/cog_edit.png',
             tooltip: 'Edit',
             action: 'editperson'
         }]
